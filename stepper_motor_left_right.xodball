@@ -1,0 +1,1258 @@
+{
+  "name": "",
+  "patches": {
+    "@/buttonmotorcontrol": {
+      "links": {
+        "B1uxi4V9OGB": {
+          "id": "B1uxi4V9OGB",
+          "input": {
+            "nodeId": "BkVo449_MS",
+            "pinKey": "B1RU0OrDkb"
+          },
+          "output": {
+            "nodeId": "BkujN45_fH",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "BJeeiVVc_fB": {
+          "id": "BJeeiVVc_fB",
+          "input": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "SJbu6y-g4"
+          },
+          "output": {
+            "nodeId": "rkmiNNquzH",
+            "pinKey": "HJU8CE2lW"
+          }
+        },
+        "BJxOV5_zB": {
+          "id": "BJxOV5_zB",
+          "input": {
+            "nodeId": "ryxvVcuzB",
+            "pinKey": "__in__"
+          },
+          "output": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "SkdYTy-x4"
+          }
+        },
+        "BkEa4cdGr": {
+          "id": "BkEa4cdGr",
+          "input": {
+            "nodeId": "SJfT4cOzH",
+            "pinKey": "__in__"
+          },
+          "output": {
+            "nodeId": "rkmiNNquzH",
+            "pinKey": "HJU8CE2lW"
+          }
+        },
+        "BkPloE4c_zr": {
+          "id": "BkPloE4c_zr",
+          "input": {
+            "nodeId": "BkVo449_MS",
+            "pinKey": "Bkh8A_Sv1-"
+          },
+          "output": {
+            "nodeId": "ryvsNVq_fH",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "By6go4V9ufH": {
+          "id": "By6go4V9ufH",
+          "input": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "Hko1TyZxE"
+          },
+          "output": {
+            "nodeId": "Sk3oEN9_MH",
+            "pinKey": "__out__"
+          }
+        },
+        "BycliNVcdMH": {
+          "id": "BycliNVcdMH",
+          "input": {
+            "nodeId": "BklsEEcOfB",
+            "pinKey": "ByNiWkt8Z"
+          },
+          "output": {
+            "nodeId": "B1to4VcuGr",
+            "pinKey": "__out__"
+          }
+        },
+        "HkJWsNN5OzS": {
+          "id": "HkJWsNN5OzS",
+          "input": {
+            "nodeId": "rkmiNNquzH",
+            "pinKey": "B13SCNhl-"
+          },
+          "output": {
+            "nodeId": "rk0sE45dGB",
+            "pinKey": "__out__"
+          }
+        },
+        "HyFgsE4q_fH": {
+          "id": "HyFgsE4q_fH",
+          "input": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "rk4L6JWx4"
+          },
+          "output": {
+            "nodeId": "B1Ss4EqdfH",
+            "pinKey": "S13xLCuHvkW"
+          }
+        },
+        "HyIgjVNqdMr": {
+          "id": "HyIgjVNqdMr",
+          "input": {
+            "nodeId": "rkmiNNquzH",
+            "pinKey": "r1jzp_DTZ"
+          },
+          "output": {
+            "nodeId": "SyLjEV5dMS",
+            "pinKey": "Hkw48AdSPyb"
+          }
+        },
+        "HyhloVN9uGS": {
+          "id": "HyhloVN9uGS",
+          "input": {
+            "nodeId": "BysEN9OMr",
+            "pinKey": "rJjXFA9JQ"
+          },
+          "output": {
+            "nodeId": "H1oiENc_fr",
+            "pinKey": "__out__"
+          }
+        },
+        "SJHgsV4quGH": {
+          "id": "SJHgsV4quGH",
+          "input": {
+            "nodeId": "SyLjEV5dMS",
+            "pinKey": "SkKNUR_SwyW"
+          },
+          "output": {
+            "nodeId": "BkujN45_fH",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "SJZxjNN9_fr": {
+          "id": "SJZxjNN9_fr",
+          "input": {
+            "nodeId": "B1Ss4EqdfH",
+            "pinKey": "S1yZIA_rDJZ"
+          },
+          "output": {
+            "nodeId": "BkVo449_MS",
+            "pinKey": "HkyxURuSPyW"
+          }
+        },
+        "SkGdE5uMS": {
+          "id": "SkGdE5uMS",
+          "input": {
+            "nodeId": "HJ7v45OMB",
+            "pinKey": "__in__"
+          },
+          "output": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "HkeCxlWe4"
+          }
+        },
+        "SkQxo4V5OMr": {
+          "id": "SkQxo4V5OMr",
+          "input": {
+            "nodeId": "BkujN45_fH",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "Hy-jV4q_zS",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "SygZjN45dfS": {
+          "id": "SygZjN45dfS",
+          "input": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "HknMpkbxN"
+          },
+          "output": {
+            "nodeId": "Byylo4EquMS",
+            "pinKey": "__out__"
+          }
+        },
+        "r1ixsNV5_GB": {
+          "id": "r1ixsNV5_GB",
+          "input": {
+            "nodeId": "Hy-jV4q_zS",
+            "pinKey": "ByNiWkt8Z"
+          },
+          "output": {
+            "nodeId": "rk9iEN5ufr",
+            "pinKey": "__out__"
+          }
+        },
+        "r1zloNEcOMH": {
+          "id": "r1zloNEcOMH",
+          "input": {
+            "nodeId": "ryvsNVq_fH",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "BklsEEcOfB",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "rJRgo4V9dMr": {
+          "id": "rJRgo4V9dMr",
+          "input": {
+            "nodeId": "Bkfi4EqOMS",
+            "pinKey": "HJQe6kWeN"
+          },
+          "output": {
+            "nodeId": "SyTiNV5dGr",
+            "pinKey": "__out__"
+          }
+        },
+        "rkUMjBofH": {
+          "id": "rkUMjBofH",
+          "input": {
+            "nodeId": "BkVGirofB",
+            "pinKey": "__in__"
+          },
+          "output": {
+            "nodeId": "B1Ss4EqdfH",
+            "pinKey": "S13xLCuHvkW"
+          }
+        },
+        "ryEgs4NqdMH": {
+          "id": "ryEgs4NqdMH",
+          "input": {
+            "nodeId": "SyLjEV5dMS",
+            "pinKey": "HkOV8CdSvyW"
+          },
+          "output": {
+            "nodeId": "ryvsNVq_fH",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        }
+      },
+      "nodes": {
+        "B1Ss4EqdfH": {
+          "boundLiterals": {
+            "r1AgIROHDJW": "-1",
+            "ryTeUROHD1b": "1"
+          },
+          "id": "B1Ss4EqdfH",
+          "position": {
+            "x": 5,
+            "y": 3.75,
+            "units": "slots"
+          },
+          "type": "xod/core/if-else"
+        },
+        "B1to4VcuGr": {
+          "boundLiterals": {
+            "__out__": "D3"
+          },
+          "id": "B1to4VcuGr",
+          "label": "Fwd",
+          "position": {
+            "x": 5,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "BkVGirofB": {
+          "id": "BkVGirofB",
+          "position": {
+            "x": 9,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-number"
+        },
+        "BkVo449_MS": {
+          "id": "BkVo449_MS",
+          "position": {
+            "x": 5,
+            "y": 2.75,
+            "units": "slots"
+          },
+          "type": "xod/core/flip-flop"
+        },
+        "Bkfi4EqOMS": {
+          "boundLiterals": {
+            "HJQe6kWeN": "D12",
+            "HknMpkbxN": "1000",
+            "Hko1TyZxE": "D11",
+            "SJbu6y-g4": "Never",
+            "rk4L6JWx4": "-1"
+          },
+          "id": "Bkfi4EqOMS",
+          "position": {
+            "x": 15,
+            "y": 3.75,
+            "units": "slots"
+          },
+          "type": "nkrkv/stepdir/stepper"
+        },
+        "BklsEEcOfB": {
+          "boundLiterals": {
+            "BJ--G1tI-": "True",
+            "ByNiWkt8Z": "D3"
+          },
+          "id": "BklsEEcOfB",
+          "position": {
+            "x": 5,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "BkujN45_fH": {
+          "id": "BkujN45_fH",
+          "position": {
+            "x": 10,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "BysEN9OMr": {
+          "boundLiterals": {
+            "BygApTqym": "On Boot",
+            "HJ6HsEngZ": "True",
+            "rJjXFA9JQ": "D10"
+          },
+          "id": "BysEN9OMr",
+          "position": {
+            "x": 14,
+            "y": 1,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        },
+        "Byylo4EquMS": {
+          "boundLiterals": {
+            "__out__": "1000"
+          },
+          "id": "Byylo4EquMS",
+          "label": "PPS",
+          "position": {
+            "x": 20,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-number"
+        },
+        "H1oiENc_fr": {
+          "boundLiterals": {
+            "__out__": "D10"
+          },
+          "id": "H1oiENc_fr",
+          "label": "SLP",
+          "position": {
+            "x": 14,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "HJ7v45OMB": {
+          "id": "HJ7v45OMB",
+          "label": "ERR",
+          "position": {
+            "x": 16,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-pulse"
+        },
+        "Hy-jV4q_zS": {
+          "boundLiterals": {
+            "BJ--G1tI-": "True",
+            "ByNiWkt8Z": "D4"
+          },
+          "id": "Hy-jV4q_zS",
+          "position": {
+            "x": 8,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "SJfT4cOzH": {
+          "id": "SJfT4cOzH",
+          "label": "TICK",
+          "position": {
+            "x": 12,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-pulse"
+        },
+        "Sk3oEN9_MH": {
+          "boundLiterals": {
+            "__out__": "D11"
+          },
+          "id": "Sk3oEN9_MH",
+          "label": "STEP",
+          "position": {
+            "x": 15,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "SyLjEV5dMS": {
+          "id": "SyLjEV5dMS",
+          "position": {
+            "x": 12,
+            "y": 1.75,
+            "units": "slots"
+          },
+          "type": "xod/core/xor"
+        },
+        "SyTiNV5dGr": {
+          "boundLiterals": {
+            "__out__": "D12"
+          },
+          "id": "SyTiNV5dGr",
+          "label": "DIR",
+          "position": {
+            "x": 16,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "rk0sE45dGB": {
+          "boundLiterals": {
+            "__out__": "0.002"
+          },
+          "id": "rk0sE45dGB",
+          "label": "IVAL",
+          "position": {
+            "x": 18,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-number"
+        },
+        "rk9iEN5ufr": {
+          "boundLiterals": {
+            "__out__": "D4"
+          },
+          "id": "rk9iEN5ufr",
+          "label": "Bck",
+          "position": {
+            "x": 8,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "rkmiNNquzH": {
+          "boundLiterals": {
+            "B13SCNhl-": "0.002"
+          },
+          "id": "rkmiNNquzH",
+          "position": {
+            "x": 12,
+            "y": 2.75,
+            "units": "slots"
+          },
+          "type": "xod/core/clock"
+        },
+        "ryvsNVq_fH": {
+          "id": "ryvsNVq_fH",
+          "position": {
+            "x": 7,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "ryxvVcuzB": {
+          "id": "ryxvVcuzB",
+          "label": "DONE",
+          "position": {
+            "x": 15,
+            "y": 5,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-pulse"
+        }
+      },
+      "path": "@/buttonmotorcontrol"
+    },
+    "@/main": {
+      "links": {
+        "BkAfS5dzH": {
+          "id": "BkAfS5dzH",
+          "input": {
+            "nodeId": "HJjfrcOGS",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "HkF-B9_fH",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "H1j-rcdMS": {
+          "id": "H1j-rcdMS",
+          "input": {
+            "nodeId": "HkF-B9_fH",
+            "pinKey": "HJAq-A_8-"
+          },
+          "output": {
+            "nodeId": "SkxqV5dzS",
+            "pinKey": "SJfT4cOzH"
+          }
+        },
+        "SJMQH9_GS": {
+          "id": "SJMQH9_GS",
+          "input": {
+            "nodeId": "HJyXH9dfr",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "rkAWB9dGS",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "SyxMSqufS": {
+          "id": "SyxMSqufS",
+          "input": {
+            "nodeId": "rkAWB9dGS",
+            "pinKey": "HJAq-A_8-"
+          },
+          "output": {
+            "nodeId": "H175VqdGS",
+            "pinKey": "SJfT4cOzH"
+          }
+        }
+      },
+      "nodes": {
+        "H175VqdGS": {
+          "boundLiterals": {
+            "B1to4VcuGr": "D5",
+            "H1oiENc_fr": "D7",
+            "Sk3oEN9_MH": "D8",
+            "SyTiNV5dGr": "D9",
+            "rk9iEN5ufr": "D6"
+          },
+          "id": "H175VqdGS",
+          "position": {
+            "x": 8,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "@/buttonmotorcontrol"
+        },
+        "HJjfrcOGS": {
+          "id": "HJjfrcOGS",
+          "position": {
+            "x": 3,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "HJyXH9dfr": {
+          "id": "HJyXH9dfr",
+          "position": {
+            "x": 11,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "HkF-B9_fH": {
+          "id": "HkF-B9_fH",
+          "position": {
+            "x": 0,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        },
+        "SkxqV5dzS": {
+          "id": "SkxqV5dzS",
+          "position": {
+            "x": 0,
+            "y": -2,
+            "units": "slots"
+          },
+          "type": "@/buttonmotorcontrol"
+        },
+        "rkAWB9dGS": {
+          "id": "rkAWB9dGS",
+          "position": {
+            "x": 8,
+            "y": -1,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        }
+      },
+      "path": "@/main"
+    },
+    "@/new": {
+      "path": "@/new"
+    },
+    "@/simplestep": {
+      "links": {
+        "BJjh1HDMB": {
+          "id": "BJjh1HDMB",
+          "input": {
+            "nodeId": "rkq_o4vzB",
+            "pinKey": "SJbu6y-g4"
+          },
+          "output": {
+            "nodeId": "B1YPj4wzr",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "BkCIyHPfB": {
+          "id": "BkCIyHPfB",
+          "input": {
+            "nodeId": "rJnLJrDGB",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "B1YPj4wzr",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "BkW61BDMS": {
+          "id": "BkW61BDMS",
+          "input": {
+            "nodeId": "r11p1Hwzr",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "B1YPj4wzr",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "S1G6kSwzr": {
+          "id": "S1G6kSwzr",
+          "input": {
+            "nodeId": "rkq_o4vzB",
+            "pinKey": "HJwdTJWe4"
+          },
+          "output": {
+            "nodeId": "r11p1Hwzr",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        }
+      },
+      "nodes": {
+        "B1YPj4wzr": {
+          "boundLiterals": {
+            "BJ--G1tI-": "False",
+            "ByNiWkt8Z": "D3"
+          },
+          "id": "B1YPj4wzr",
+          "position": {
+            "x": 4,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "Hkf_jEDzH": {
+          "boundLiterals": {
+            "BygApTqym": "On Boot",
+            "HJ6HsEngZ": "True",
+            "rJjXFA9JQ": "D10"
+          },
+          "id": "Hkf_jEDzH",
+          "position": {
+            "x": 0,
+            "y": 1,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        },
+        "r11p1Hwzr": {
+          "id": "r11p1Hwzr",
+          "position": {
+            "x": 5,
+            "y": 1,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "rJnLJrDGB": {
+          "id": "rJnLJrDGB",
+          "position": {
+            "x": 7,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "rkq_o4vzB": {
+          "boundLiterals": {
+            "HJQe6kWeN": "D12",
+            "HknMpkbxN": "10",
+            "Hko1TyZxE": "D11",
+            "SJbu6y-g4": "Never",
+            "rk4L6JWx4": "Inf"
+          },
+          "id": "rkq_o4vzB",
+          "position": {
+            "x": 0,
+            "y": 3,
+            "units": "slots"
+          },
+          "type": "nkrkv/stepdir/stepper"
+        }
+      },
+      "path": "@/simplestep"
+    },
+    "@/singlemotor": {
+      "links": {
+        "H1RzjSjzr": {
+          "id": "H1RzjSjzr",
+          "input": {
+            "nodeId": "B1nfsSjMB",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "B1x5zrjfS",
+            "pinKey": "BkVGirofB"
+          }
+        },
+        "rJ7lcfrozr": {
+          "id": "rJ7lcfrozr",
+          "input": {
+            "nodeId": "B1becMHizH",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "BkgxczSjMB",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "rkMgcMHoGr": {
+          "id": "rkMgcMHoGr",
+          "input": {
+            "nodeId": "BkgxczSjMB",
+            "pinKey": "HJAq-A_8-"
+          },
+          "output": {
+            "nodeId": "B1x5zrjfS",
+            "pinKey": "SJfT4cOzH"
+          }
+        }
+      },
+      "nodes": {
+        "B1becMHizH": {
+          "id": "B1becMHizH",
+          "position": {
+            "x": 9,
+            "y": 2,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "B1nfsSjMB": {
+          "id": "B1nfsSjMB",
+          "position": {
+            "x": 2,
+            "y": 1,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "B1x5zrjfS": {
+          "boundLiterals": {
+            "B1to4VcuGr": "D4",
+            "Byylo4EquMS": "500",
+            "rk0sE45dGB": "0.004",
+            "rk9iEN5ufr": "D5"
+          },
+          "id": "B1x5zrjfS",
+          "position": {
+            "x": 5,
+            "y": 0,
+            "units": "slots"
+          },
+          "type": "@/buttonmotorcontrol"
+        },
+        "BkgxczSjMB": {
+          "id": "BkgxczSjMB",
+          "position": {
+            "x": 6,
+            "y": 2,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        }
+      },
+      "path": "@/singlemotor"
+    },
+    "@/stepper2": {
+      "attachments": [
+        {
+          "content": "\nstruct State {\n};\n\n{{ GENERATED_CODE }}\n\nvoid evaluate(Context ctx) {\n    auto stepPort = getValue<input_STEP>(ctx);\n    auto dirPort = getValue<input_DIR>(ctx);\n    auto nSteps = getValue<input_N>(ctx);\n    auto pps = getValue<input_PPS>(ctx);\n\n    if (isInputDirty<input_RST>(ctx)) {\n        noTone(stepPort);\n        clearTimeout(ctx);\n        return;\n    }\n\n    if (isTimedOut(ctx)) {\n        emitValue<output_DONE>(ctx, 1);\n    }\n\n    if (!isInputDirty<input_GO>(ctx)) {\n        return;\n    }\n\n    if (pps == 0) {\n        emitValue<output_ERR>(ctx, 1);\n        return;\n    }\n\n    if (pps < 0) {\n        // swap direction if PPS is negative\n        pps = -pps;\n        nSteps = -nSteps;\n    }\n\n    // In case the in-progress rotation is finite and the upcoming\n    // one will be infinite\n    clearTimeout(ctx);\n\n    pinMode(stepPort, OUTPUT);\n    pinMode(dirPort, OUTPUT);\n    digitalWrite(dirPort, nSteps < 0);\n\n    if (isfinite(nSteps)) {\n        unsigned long durationMs = abs(nSteps) / pps * 1000;\n        tone(stepPort, pps, durationMs);\n        setTimeout(ctx, durationMs);\n    } else {\n        tone(stepPort, pps);\n    }\n}\n",
+          "encoding": "utf-8",
+          "filename": "patch.cpp"
+        }
+      ],
+      "nodes": {
+        "B1ZvJRVwzr": {
+          "description": "Reset. Cancels the current rotation. Neither `DONE` nor `ERR` will fire after a pulse on `RST`.",
+          "id": "B1ZvJRVwzr",
+          "label": "RST",
+          "position": {
+            "x": 7,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-pulse"
+        },
+        "HJUDJ04PMr": {
+          "description": "Fires when `N` steps complete successfully.",
+          "id": "HJUDJ04PMr",
+          "label": "DONE",
+          "position": {
+            "x": 0,
+            "y": 1.75,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-pulse"
+        },
+        "HJvk0NPGS": {
+          "id": "HJvk0NPGS",
+          "position": {
+            "x": 0,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/not-implemented-in-xod"
+        },
+        "S1Mw1R4vMH": {
+          "description": "Fires when the rotation is impossible. For example, if the value of `PPS` is wrong.",
+          "id": "S1Mw1R4vMH",
+          "label": "ERR",
+          "position": {
+            "x": 1,
+            "y": 1.75,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/output-pulse"
+        },
+        "SyVPyCVPzB": {
+          "boundLiterals": {
+            "__out__": "D3"
+          },
+          "description": "A board port to which the step port of the driver is connected.",
+          "id": "SyVPyCVPzB",
+          "label": "STEP",
+          "position": {
+            "x": 0,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "r1lDJA4vfS": {
+          "boundLiterals": {
+            "__out__": "D2"
+          },
+          "description": "A board port to which the direction port of the driver is connected.",
+          "id": "r1lDJA4vfS",
+          "label": "DIR",
+          "position": {
+            "x": 1,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-port"
+        },
+        "r1rvkAVPzB": {
+          "description": "Starts a new rotation which will make `N` steps at `PPS` rate.",
+          "id": "r1rvkAVPzB",
+          "label": "GO",
+          "position": {
+            "x": 6,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-pulse"
+        },
+        "rJvP1CVwMr": {
+          "boundLiterals": {
+            "__out__": "+Inf"
+          },
+          "description": "Number of steps to make. Many motors have 200 or 400 steps per revolution. Pass a negative value to rotate in the backward direction. Set to `+Inf` or `-Inf` to run an infinite rotation.",
+          "id": "rJvP1CVwMr",
+          "label": "N",
+          "position": {
+            "x": 4,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-number"
+        },
+        "ry7PkREvzB": {
+          "boundLiterals": {
+            "__out__": "200"
+          },
+          "description": "Pulses per second. Defines the rotation speed: number of steps a motor is expected to perform in one second. Should not be zero. The upper limit is defined by characteristics of the connected motor.",
+          "id": "ry7PkREvzB",
+          "label": "PPS",
+          "position": {
+            "x": 3,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/patch-nodes/input-number"
+        }
+      },
+      "path": "@/stepper2"
+    },
+    "@/stepper3": {
+      "links": {
+        "BkNgUA0tdGr": {
+          "id": "BkNgUA0tdGr",
+          "input": {
+            "nodeId": "ByKUARYdMr",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "Syd8CCtufB",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "ByIxURAYOfr": {
+          "id": "ByIxURAYOfr",
+          "input": {
+            "nodeId": "Syd8CCtufB",
+            "pinKey": "HJAq-A_8-"
+          },
+          "output": {
+            "nodeId": "HJwI0RKufH",
+            "pinKey": "HJU8CE2lW"
+          }
+        },
+        "H1XgIRAt_Mr": {
+          "id": "H1XgIRAt_Mr",
+          "input": {
+            "nodeId": "H1I0AYuzB",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "BJIL0AYuGS",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "H1ceIRAFOMH": {
+          "id": "H1ceIRAFOMH",
+          "input": {
+            "nodeId": "SJhU0RtdGH",
+            "pinKey": "HkOV8CdSvyW"
+          },
+          "output": {
+            "nodeId": "B1TI00YuMr",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "HJjlUA0tOMB": {
+          "id": "HJjlUA0tOMB",
+          "input": {
+            "nodeId": "SJhU0RtdGH",
+            "pinKey": "SkKNUR_SwyW"
+          },
+          "output": {
+            "nodeId": "rkRLRRF_zr",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "S150e5OfH": {
+          "id": "S150e5OfH",
+          "input": {
+            "nodeId": "SJdpg9uMS",
+            "pinKey": "HJ6HsEngZ"
+          },
+          "output": {
+            "nodeId": "BJcLCRtdzH",
+            "pinKey": "HkyxURuSPyW"
+          }
+        },
+        "S1OeLCAtOzS": {
+          "id": "S1OeLCAtOzS",
+          "input": {
+            "nodeId": "B1TI00YuMr",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "SJbIR0FuzS",
+            "pinKey": "BJ--G1tI-"
+          }
+        },
+        "SJ2lIA0YuGS": {
+          "id": "SJ2lIA0YuGS",
+          "input": {
+            "nodeId": "HJwI0RKufH",
+            "pinKey": "r1jzp_DTZ"
+          },
+          "output": {
+            "nodeId": "SJhU0RtdGH",
+            "pinKey": "Hkw48AdSPyb"
+          }
+        },
+        "SJTxLA0K_MH": {
+          "id": "SJTxLA0K_MH",
+          "input": {
+            "nodeId": "SJ1gIRAYuGr",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "Hkj8RAtOMr",
+            "pinKey": "S13xLCuHvkW"
+          }
+        },
+        "SJggLR0Y_MB": {
+          "id": "SJggLR0Y_MB",
+          "input": {
+            "nodeId": "rkm80At_zr",
+            "pinKey": "HkXK-dGob"
+          },
+          "output": {
+            "nodeId": "BkzLC0tdfH",
+            "pinKey": "r1yhZRd8W"
+          }
+        },
+        "SkCe8AAY_MH": {
+          "id": "SkCe8AAY_MH",
+          "input": {
+            "nodeId": "BJcLCRtdzH",
+            "pinKey": "Bkh8A_Sv1-"
+          },
+          "output": {
+            "nodeId": "B1TI00YuMr",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "r1JZLCRt_MS": {
+          "id": "r1JZLCRt_MS",
+          "input": {
+            "nodeId": "BJcLCRtdzH",
+            "pinKey": "B1RU0OrDkb"
+          },
+          "output": {
+            "nodeId": "rkRLRRF_zr",
+            "pinKey": "r1if8ROSDJ-"
+          }
+        },
+        "rkKlI0AYdzH": {
+          "id": "rkKlI0AYdzH",
+          "input": {
+            "nodeId": "rkRLRRF_zr",
+            "pinKey": "ry3zLA_Bv1Z"
+          },
+          "output": {
+            "nodeId": "ByVLCRKOGS",
+            "pinKey": "BJ--G1tI-"
+          }
+        }
+      },
+      "nodes": {
+        "B1TI00YuMr": {
+          "id": "B1TI00YuMr",
+          "position": {
+            "x": 7,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "BJIL0AYuGS": {
+          "id": "BJIL0AYuGS",
+          "position": {
+            "x": 14,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        },
+        "BJcLCRtdzH": {
+          "id": "BJcLCRtdzH",
+          "position": {
+            "x": 5,
+            "y": 1.75,
+            "units": "slots"
+          },
+          "type": "xod/core/flip-flop"
+        },
+        "Bkklbq_Mr": {
+          "boundLiterals": {
+            "Syro9C9yQ": "D11"
+          },
+          "id": "Bkklbq_Mr",
+          "position": {
+            "x": 18,
+            "y": 3,
+            "units": "slots"
+          },
+          "type": "xod/gpio/pwm-write"
+        },
+        "BkzLC0tdfH": {
+          "id": "BkzLC0tdfH",
+          "position": {
+            "x": 18,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        },
+        "ByKUARYdMr": {
+          "id": "ByKUARYdMr",
+          "position": {
+            "x": 13,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "ByVLCRKOGS": {
+          "boundLiterals": {
+            "BJ--G1tI-": "True",
+            "ByNiWkt8Z": "D4"
+          },
+          "id": "ByVLCRKOGS",
+          "position": {
+            "x": 8,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "H1I0AYuzB": {
+          "id": "H1I0AYuzB",
+          "position": {
+            "x": 17,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "HJwI0RKufH": {
+          "boundLiterals": {
+            "B13SCNhl-": "0.002"
+          },
+          "id": "HJwI0RKufH",
+          "position": {
+            "x": 12,
+            "y": 2,
+            "units": "slots"
+          },
+          "type": "xod/core/clock"
+        },
+        "Hkj8RAtOMr": {
+          "boundLiterals": {
+            "r1AgIROHDJW": "-1",
+            "ryTeUROHD1b": "1"
+          },
+          "id": "Hkj8RAtOMr",
+          "position": {
+            "x": 5,
+            "y": 2.75,
+            "units": "slots"
+          },
+          "type": "xod/core/if-else"
+        },
+        "SJ1gIRAYuGr": {
+          "id": "SJ1gIRAYuGr",
+          "position": {
+            "x": 6,
+            "y": 3.75,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        },
+        "SJbIR0FuzS": {
+          "boundLiterals": {
+            "BJ--G1tI-": "True",
+            "ByNiWkt8Z": "D3"
+          },
+          "id": "SJbIR0FuzS",
+          "position": {
+            "x": 5,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/common-hardware/button"
+        },
+        "SJdpg9uMS": {
+          "boundLiterals": {
+            "rJjXFA9JQ": "D12"
+          },
+          "id": "SJdpg9uMS",
+          "position": {
+            "x": 13,
+            "y": 3,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        },
+        "SJhU0RtdGH": {
+          "id": "SJhU0RtdGH",
+          "position": {
+            "x": 12,
+            "y": 0.75,
+            "units": "slots"
+          },
+          "type": "xod/core/xor"
+        },
+        "Syd8CCtufB": {
+          "id": "Syd8CCtufB",
+          "position": {
+            "x": 10,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/core/count"
+        },
+        "r1xLRRFOfB": {
+          "boundLiterals": {
+            "BygApTqym": "On Boot",
+            "HJ6HsEngZ": "True",
+            "rJjXFA9JQ": "D10"
+          },
+          "id": "r1xLRRFOfB",
+          "position": {
+            "x": 0,
+            "y": 1.75,
+            "units": "slots"
+          },
+          "type": "xod/gpio/digital-write"
+        },
+        "rkRLRRF_zr": {
+          "id": "rkRLRRF_zr",
+          "position": {
+            "x": 10,
+            "y": -0.25,
+            "units": "slots"
+          },
+          "type": "xod/core/not"
+        },
+        "rkm80At_zr": {
+          "id": "rkm80At_zr",
+          "position": {
+            "x": 21,
+            "y": 6,
+            "units": "slots"
+          },
+          "type": "xod/debug/watch"
+        }
+      },
+      "path": "@/stepper3"
+    }
+  }
+}
